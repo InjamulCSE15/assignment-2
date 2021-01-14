@@ -45,3 +45,26 @@
     font-family: 'Alata', sans-serif;
     font-weight: 400;
 }
+.price{
+    color: #76C27E;
+    font-family: 'Roboto', sans-serif;
+    font-size: 36px;
+    font-weight: 800;
+}
+.buying{
+    background-color: #2A1E59;
+    color: white;
+    border-radius: 10px;
+    font-weight:700;
+    padding: 15px 40px;
+}
+.focus{
+    font-weight: 700;
+    font-family: 'Alata', sans-serif;
+    font-size: 25px;
+}
+.about-shadow{
+    border-color: white;
+    border:0;
+    border-radius: 15px;
+}
