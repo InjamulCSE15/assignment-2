@@ -1,3 +1,7 @@
+.backpack-term{
+    background-color: #FFFFF4;
+}
+
 .backpack-moon{
     background-color: #FFFFF4;
 }
@@ -70,4 +74,13 @@
 }
 .cat-paragraph{
     color: #313131;
+}
+.paragraph{
+    font-size: 16px;
+    line-height: 26px;
+    font-family:  'Roboto', sans-serif ;
+    text-align: justify;
+}
+.pic{
+    width: 100%;
 }
