@@ -1,0 +1,39 @@
+.backpack-moon{
+    background-color: #FFFFF4;
+}
+.Bebas-font{
+    font-family: 'Bebas Neue', cursive;
+    color: #363958;
+    font-size: 80px;
+}
+.roboto-font{
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+}
+.moon{
+   color: #76C27E;
+}
+.box{
+    border-color: 2px solid black;
+}
+.casual-travel{
+    font-size: 60px;
+}
+.image{
+    background-color: #F1F1F1;
+    border-radius: 20px;
+}
+.casual-travel-title{
+    font-family: 'Roboto', sans-serif;
+    font-size: 24px;
+    color: #363958;
+    font-weight: 900;
+}
+.casual-design{
+    background-color: white;
+    border:0;
+    border-radius: 20px;
+}
+.casual-tone{
+    background-color: gray;
+}
