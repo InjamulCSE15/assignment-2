@@ -6,4 +6,4 @@ In this project I learned that how to use **Bootstrap** in a website.
 
 ![Screenshot_5.png](https://github.com/InjamulCSE15/assignment-2/blob/main/Photos/Screenshot_5.png)
 
-<a href="https://injamulcse15.github.io/assignment-2/assignmentTwo.html">View Live Preview</a>
+<b><a href="https://injamulcse15.github.io/assignment-2/assignmentTwo.html">View Live Preview</a><b>
